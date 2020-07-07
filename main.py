@@ -30,10 +30,21 @@ Blandit aliquam etiam erat velit scelerisque. Quis eleifend quam adipiscing vita
 Pharetra pharetra massa massa ultricies mi.</p>
 
 
+<form action="/hi.com">
+  <label for="fname">Files:</label>
+  <input type="file" id="fname" name="fname"><br><br>
+  <label for="lname">Text:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+
+
 </pre>
 </body>
 
 </html>
+
 """
 
 app = Flask(__name__)
