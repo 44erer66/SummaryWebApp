@@ -28,18 +28,6 @@ Lectus urna duis convallis convallis tellus. Fermentum iaculis eu non diam phase
 Arcu vitae elementum curabitur vitae nunc. 
 Blandit aliquam etiam erat velit scelerisque. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus.
 Pharetra pharetra massa massa ultricies mi.</p>
-
-
-<form action="/hi.com">
-  <label for="fname">Files:</label>
-  <input type="file" id="fname" name="fname"><br><br>
-  <label for="lname">Text:</label>
-  <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
-</form>
-
-
-
 </pre>
 </body>
 
